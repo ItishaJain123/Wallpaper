@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* .navbar {
+  position: absolute;
+  float: right;
+  top: 40px;
+  right: 20px;
+}
+
+h2 {
+  float: left;
+  position: absolute;
+  top: 40px;
+  font-size: 30px;
+  left: 20px;
+}
+
+.navbar a {
+  text-decoration: none;
+  font-size: 20px;
+  justify-content: space-between;
+  color: white;
+  padding: 15px;
+}
+
+.navbar a:hover {
+  background-color: black;
+  color: white;
+  transform: scale(2);
+} */
+
+.item {
+  transition: 0.5s ease-in-out;
+}
+
+.item:hover {
+  filter: brightness(50%);
+}
